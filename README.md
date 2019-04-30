@@ -1,5 +1,5 @@
 # Inclusive Integrated Indexing 
-#*i Creating equitable access to new knowledge !
+*i Creating equitable access to new knowledge !
 
 Hello !
 Thanks for visiting this repository. The README file will help you understand more about **Inclusive Integrated Indexing** project and how you can get involved. 
